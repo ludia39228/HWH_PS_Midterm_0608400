@@ -374,20 +374,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u6750\u8CEA\u7403"
+    - "Assets/\u7C92\u5B50\u7403"
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - "Assets/\u6750\u8CEA\u7403"
+  - "Assets/\u7C92\u5B50\u7403"
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\User\Desktop\HWH_PS_Midterm_0608400\PS_Midterm_0608400
+  m_LastProjectPath: C:\HWH_PS_Midterm_0608400\PS_Midterm_0608400
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e340000
-    m_LastClickedID: 13358
-    m_ExpandedIDs: 00000000d433000000ca9a3b
+    m_SelectedIDs: 5c340000
+    m_LastClickedID: 13404
+    m_ExpandedIDs: 000000005034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -415,7 +415,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d4330000
+    m_ExpandedIDs: 0000000050340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,9 +599,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.21889496, y: -2.5715523, z: -1.7779675}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.21889496, y: -2.5715523, z: -1.7779675}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -647,13 +647,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17052627, y: 0.7707566, z: -0.23110329, w: -0.5687265}
+    m_Target: {x: -0.29376498, y: 0.60100234, z: -0.2525499, w: -0.69908696}
     speed: 2
-    m_Value: {x: -0.1698319, y: 0.77245796, z: -0.23161343, w: -0.56641066}
+    m_Value: {x: -0.2930052, y: 0.6030952, z: -0.25342935, w: -0.69727886}
   m_Size:
-    m_Target: 14.805996
+    m_Target: 14.661652
     speed: 2
-    m_Value: 15.50366
+    m_Value: 15.352514
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -707,23 +707,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e6330000
-      m_LastClickedID: 13286
-      m_ExpandedIDs: b6e7ffffb8faffffbcfaffffbefaffff68fbffff
+      m_SelectedIDs: 7cfaffff
+      m_LastClickedID: -1412
+      m_ExpandedIDs: 7cfaffff7efaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Missing Prefab (Dummy)
-        m_OriginalName: Missing Prefab (Dummy)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -1352
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 11}
       m_SearchString: 
